@@ -1,0 +1,7 @@
+3
+Torch
+A small, flickering torch that lights your way.
+Sword
+A sharp sword for battle.
+Shield
+A sturdy shield for defense.

@@ -1,0 +1,7 @@
+3
+Goblin
+30 5
+Orc
+50 10
+Dragon
+100 20

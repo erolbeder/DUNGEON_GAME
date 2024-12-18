@@ -1,0 +1,13 @@
+2
+A dark and eerie room with stone walls.
+1 -1 0 0
+2
+Torch
+Sword
+0
+A damp and cold cave with stalactites hanging from the ceiling.
+-1 1 -1 0
+1
+Shield
+1
+
